@@ -1,0 +1,27 @@
+[0.679s] Invoking command in '/home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy': PS1=\e[01;32m\u@\h\e[00m:\e[01;34m\w\e[00m\e[01;33m$(parse_git_branch)\e[00m$ PYTHONPATH=/home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy/build --no-deps symlink_data
+[0.893s] running develop
+[1.033s] running egg_info
+[1.033s] creating tb3_autonomy.egg-info
+[1.034s] writing tb3_autonomy.egg-info/PKG-INFO
+[1.034s] writing dependency_links to tb3_autonomy.egg-info/dependency_links.txt
+[1.034s] writing entry points to tb3_autonomy.egg-info/entry_points.txt
+[1.035s] writing requirements to tb3_autonomy.egg-info/requires.txt
+[1.035s] writing top-level names to tb3_autonomy.egg-info/top_level.txt
+[1.035s] writing manifest file 'tb3_autonomy.egg-info/SOURCES.txt'
+[1.036s] reading manifest file 'tb3_autonomy.egg-info/SOURCES.txt'
+[1.036s] writing manifest file 'tb3_autonomy.egg-info/SOURCES.txt'
+[1.037s] running build_ext
+[1.038s] Creating /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/lib/python3.10/site-packages/tb3-autonomy.egg-link (link to .)
+[1.038s] Installing patroller script to /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/lib/tb3_autonomy
+[1.039s] 
+[1.039s] Installed /home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy
+[1.039s] running symlink_data
+[1.040s] creating /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/share/ament_index
+[1.040s] creating /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/share/ament_index/resource_index
+[1.040s] creating /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/share/ament_index/resource_index/packages
+[1.040s] symbolically linking /home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy/resource/tb3_autonomy -> /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/share/ament_index/resource_index/packages
+[1.041s] symbolically linking /home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy/package.xml -> /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/share/tb3_autonomy
+[1.041s] creating /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/share/tb3_autonomy/launch
+[1.042s] symbolically linking /home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy/launch/patrol.launch.py -> /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/share/tb3_autonomy/launch
+[1.042s] creating /home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/share/tb3_autonomy/config
+[1.066s] Invoked command in '/home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy' returned '0': PS1=\e[01;32m\u@\h\e[00m:\e[01;34m\w\e[00m\e[01;33m$(parse_git_branch)\e[00m$ PYTHONPATH=/home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mertaren/robot_ws/src/tb3_autonomy_core/install/tb3_autonomy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy/build --no-deps symlink_data

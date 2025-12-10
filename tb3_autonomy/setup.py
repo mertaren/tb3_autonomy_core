@@ -29,6 +29,7 @@ setup(
     entry_points={
         'console_scripts': [
             'patroller = tb3_autonomy.patrol_node:main',
+            'perceptor = tb3_autonomy.perception_node:main'
         ],
     },
 )
