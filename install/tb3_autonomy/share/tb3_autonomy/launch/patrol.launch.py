@@ -1,1 +1,0 @@
-/home/mertaren/robot_ws/src/tb3_autonomy_core/build/tb3_autonomy/launch/patrol.launch.py

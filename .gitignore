@@ -1,0 +1,36 @@
+# --- ROS2 Core ---
+build/
+install/
+log/
+.colcon/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- Byte-compiled / Optimized / DLL files ---
+*.dll
+*.dylib
+*.obj
+*.exe
+
+# --- Models & Big Data ---
+*.pt
+*.onnx
+*.weights
+*.engine
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
